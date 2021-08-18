@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadmakerReport", "BreadmakerReport.csproj", "{97F1A9E4-7EA0-4026-B7C4-E110B65CD727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F1A9E4-7EA0-4026-B7C4-E110B65CD727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F1A9E4-7EA0-4026-B7C4-E110B65CD727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F1A9E4-7EA0-4026-B7C4-E110B65CD727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F1A9E4-7EA0-4026-B7C4-E110B65CD727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0640D159-CC02-4281-8476-7013307EFABA}
+	EndGlobalSection
+EndGlobal
